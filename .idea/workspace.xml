@@ -1,0 +1,554 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c5065521-198f-4dc3-9de4-a415ea558379" name="Changes" comment="Create first gui">
+      <change afterPath="$PROJECT_DIR$/Day 27/tkinter_02.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/API/json_path.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 27/tkinter_01.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day 27/tkinter_01.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day20/data_text.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Day20/data_text.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day3/love_calculator.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day3/love_calculator.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day4/pay_bill.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day4/pay_bill.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day5/avargae.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day5/avargae.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day5/password_generator.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day5/password_generator.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Day 21/inher.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/Day 22/ball.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/Day 22/main.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/Day 22/paddle.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/Day 22/scoreboard.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/Day 23/car_manager.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/Day 23/main.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/Day 23/player.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/Day 23/scoreboard.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/Day 24/Mail Merge Project Start/main.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/Day 24/main.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/Day 26/data_operlap.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/Day 26/dict_comp.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/Day 26/list_comprehension.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/Day 26/nato_final_project.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/Day 26/ques1_dict_comp.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/Day 26/ques2_dict_comp.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/Day 26/square.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/Day 27/args.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/Day 27/kargs.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/Day 27/tkinter_01.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/Day 27/tkinter_02.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/Day1/day1_project.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/Day12/number_guessing_game.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/Day14/higher_game.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/Day15/coffee_machine.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/Day17/Quiz_game/data.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/Day17/Quiz_game/main.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/Day17/Quiz_game/question_model.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/Day17/Quiz_game/quiz_brain.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/Day17/user_class.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/Day18/all_shape.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/Day18/dashed_line.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/Day18/different_color.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/Day18/main.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/Day18/random_walk.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/Day18/spirograph.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/Day18/square.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/Day19/etch_a_sktech.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/Day19/function_key.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/Day19/turtle_race.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/Day2/day_2_project_tip_calculator.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/Day2/life_in_weeks.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/Day20/food.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/Day20/scoreboard.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/Day20/snake.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/Day20/snake_game.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/Day3/bmi_2.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/Day3/leap_year.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/Day3/love_calculator.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/Day3/pizza_order.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/Day3/treasure_island.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/Day4/game1.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/Day4/pay_bill.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/Day4/prog1.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/Day5/add_even.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/Day5/avargae.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/Day5/fizz_buzz.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/Day5/higher_score.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/Day5/password_generator.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/Day7_Hangman/hangman.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/Day7_Hangman/hangman_art.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/Day8/function_with_argu.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/Day8/paint_area.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/Day9/final_program.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/Day_25/day-25-us-states-game-start/main.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/Day_25/main.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/Day_25/project1.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/day16/class.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/day16/oop-coffee-machine-start/main.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/day16/pretty.py" root0="SKIP_INSPECTION" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
+  <component name="ProjectId" id="2dcYUVIo2qS41vhvQEtpjFy6Jqf" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "Python.all_shape.executor": "Run",
+    "Python.args.executor": "Run",
+    "Python.avargae.executor": "Run",
+    "Python.ball.executor": "Run",
+    "Python.car_manager.executor": "Run",
+    "Python.class.executor": "Run",
+    "Python.coffee_machine.executor": "Run",
+    "Python.dashed_line.executor": "Run",
+    "Python.data.executor": "Run",
+    "Python.data_operlap.executor": "Run",
+    "Python.day_2_project_tip_calculator.executor": "Run",
+    "Python.dict_comp.executor": "Run",
+    "Python.different_color.executor": "Run",
+    "Python.etch_a_sktech.executor": "Run",
+    "Python.food.executor": "Run",
+    "Python.function.executor": "Run",
+    "Python.function_key.executor": "Run",
+    "Python.function_with_argu.executor": "Run",
+    "Python.game1.executor": "Run",
+    "Python.hangman.executor": "Run",
+    "Python.head_tail.executor": "Run",
+    "Python.higher_game.executor": "Run",
+    "Python.inher.executor": "Run",
+    "Python.json_path.executor": "Run",
+    "Python.kargs.executor": "Run",
+    "Python.leap_year.executor": "Run",
+    "Python.life_in_weeks.executor": "Run",
+    "Python.list_comprehension.executor": "Run",
+    "Python.love_calculator.executor": "Run",
+    "Python.main (1).executor": "Run",
+    "Python.main (2).executor": "Run",
+    "Python.main (3).executor": "Run",
+    "Python.main (4).executor": "Run",
+    "Python.main.executor": "Run",
+    "Python.nato_final_project.executor": "Run",
+    "Python.password_generator.executor": "Run",
+    "Python.pay_bill.executor": "Run",
+    "Python.pizza_order.executor": "Run",
+    "Python.pretty.executor": "Run",
+    "Python.prog1.executor": "Run",
+    "Python.prog_1.executor": "Run",
+    "Python.project1.executor": "Run",
+    "Python.ques1_dict_comp.executor": "Run",
+    "Python.ques2_dict_comp.executor": "Run",
+    "Python.question_model.executor": "Run",
+    "Python.quiz_brain.executor": "Run",
+    "Python.random.executor": "Run",
+    "Python.random_walk.executor": "Run",
+    "Python.scoreboard.executor": "Run",
+    "Python.snake_game.executor": "Run",
+    "Python.spirograph.executor": "Run",
+    "Python.square.executor": "Run",
+    "Python.test.executor": "Run",
+    "Python.tkinter_01.executor": "Run",
+    "Python.tkinter_02.executor": "Run",
+    "Python.turtle_race.executor": "Run",
+    "Python.user_class.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "D:/shubham/Python_Automation_Master_class",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable",
+    "two.files.diff.last.used.file": "D:/shubham/100_Day/Day18/dashed_line.py",
+    "vue.rearranger.settings.migration": "true"
+  },
+  "keyToStringList": {
+    "ChangesTree.GroupingKeys": []
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\shubham\100_Day\Day 26" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\shubham\100_Day\Day_25" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.function_with_argu">
+    <configuration name="avargae" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="100_Day" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Day5" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Day5/avargae.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="function" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="100_Day" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Day6" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Day6/function.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="function_with_argu" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="100_Day" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Day8" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Day8/function_with_argu.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="hangman" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="100_Day" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Day7_Hangman" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Day7_Hangman/hangman.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="password_generator" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="100_Day" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Day5" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Day5/password_generator.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.function_with_argu" />
+        <item itemvalue="Python.hangman" />
+        <item itemvalue="Python.function" />
+        <item itemvalue="Python.password_generator" />
+        <item itemvalue="Python.avargae" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-babbdf50b680-746f403e7f0c-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-241.15989.155" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c5065521-198f-4dc3-9de4-a415ea558379" name="Changes" comment="" />
+      <created>1710308850160</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1710308850160</updated>
+      <workItem from="1710308851255" duration="761000" />
+      <workItem from="1710324233051" duration="48544000" />
+      <workItem from="1710844899965" duration="42901000" />
+      <workItem from="1711690924306" duration="1388000" />
+      <workItem from="1711697418444" duration="10003000" />
+      <workItem from="1712221152885" duration="1081000" />
+      <workItem from="1712223607557" duration="2674000" />
+      <workItem from="1712285580691" duration="6133000" />
+      <workItem from="1712546285085" duration="9799000" />
+      <workItem from="1712587862311" duration="6969000" />
+      <workItem from="1712717580229" duration="21891000" />
+    </task>
+    <task id="LOCAL-00001" summary="add some print statement">
+      <option name="closed" value="true" />
+      <created>1710484671958</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1710484671958</updated>
+    </task>
+    <task id="LOCAL-00002" summary="adding coffee machine in oop">
+      <option name="closed" value="true" />
+      <created>1710595327262</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1710595327262</updated>
+    </task>
+    <task id="LOCAL-00003" summary="adding new program">
+      <option name="closed" value="true" />
+      <created>1710608054292</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1710608054292</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Create a square program">
+      <option name="closed" value="true" />
+      <created>1710777165541</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1710777165541</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Create a square program">
+      <option name="closed" value="true" />
+      <created>1710780179381</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1710780179381</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Create a square program">
+      <option name="closed" value="true" />
+      <created>1710780202253</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1710780202253</updated>
+    </task>
+    <task id="LOCAL-00007" summary="different color program">
+      <option name="closed" value="true" />
+      <created>1710780782156</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1710780782156</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Adding turtle race game">
+      <option name="closed" value="true" />
+      <created>1710838730869</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1710838730869</updated>
+    </task>
+    <task id="LOCAL-00009" summary="make a car crossing game">
+      <option name="closed" value="true" />
+      <created>1712546837598</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1712546837598</updated>
+    </task>
+    <task id="LOCAL-00010" summary="make a USA States game">
+      <option name="closed" value="true" />
+      <created>1712547760418</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1712547760418</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Day 26 in Day 26 we learn list and dict comprehension">
+      <option name="closed" value="true" />
+      <created>1712818999154</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1712818999154</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Create first gui">
+      <option name="closed" value="true" />
+      <created>1712897185822</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1712897185822</updated>
+    </task>
+    <task id="LOCAL-00013" summary="Create first gui">
+      <option name="closed" value="true" />
+      <created>1712916634070</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1712916634070</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.History.Properties">
+    <option name="COLUMN_ID_ORDER">
+      <list>
+        <option value="Default.Root" />
+        <option value="Default.Author" />
+        <option value="Default.Date" />
+        <option value="Default.Subject" />
+        <option value="Space.CommitStatus" />
+      </list>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="add some print statement" />
+    <MESSAGE value="adding coffee machine in oop" />
+    <MESSAGE value="adding new program" />
+    <MESSAGE value="Create a square program" />
+    <MESSAGE value="different color program" />
+    <MESSAGE value="Adding turtle race game" />
+    <MESSAGE value="make a car crossing game" />
+    <MESSAGE value="make a USA States game" />
+    <MESSAGE value="Day 26 in Day 26 we learn list and dict comprehension" />
+    <MESSAGE value="Create first gui" />
+    <option name="LAST_COMMIT_MESSAGE" value="Create first gui" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Day17/Quiz_game/question_model.py</url>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Day17/Quiz_game/data.py</url>
+          <line>17</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Day17/Quiz_game/data.py</url>
+          <line>4</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Day2/day_2_project_tip_calculator.py</url>
+          <line>6</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/100_Day$food.coverage" NAME="food Coverage Results" MODIFIED="1711462432059" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day20" />
+    <SUITE FILE_PATH="coverage/100_Day$tkinter_02.coverage" NAME="tkinter_02 Coverage Results" MODIFIED="1712935091899" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day 27" />
+    <SUITE FILE_PATH="coverage/100_Day$higher_game.coverage" NAME="higher_game Coverage Results" MODIFIED="1710341947684" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day14" />
+    <SUITE FILE_PATH="coverage/100_Day$random_walk.coverage" NAME="random_walk Coverage Results" MODIFIED="1710781383414" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day18" />
+    <SUITE FILE_PATH="coverage/100_Day$different_color.coverage" NAME="different_color Coverage Results" MODIFIED="1710781668625" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day18" />
+    <SUITE FILE_PATH="coverage/100_Day$main__3_.coverage" NAME="main (3) Coverage Results" MODIFIED="1712285976815" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day 24/Mail Merge Project Start" />
+    <SUITE FILE_PATH="coverage/100_Day$snake_game.coverage" NAME="snake_game Coverage Results" MODIFIED="1712203163499" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day20" />
+    <SUITE FILE_PATH="coverage/100_Day$main__4_.coverage" NAME="main (4) Coverage Results" MODIFIED="1712719725777" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day_25/day-25-us-states-game-start" />
+    <SUITE FILE_PATH="coverage/100_Day$nato_final_project.coverage" NAME="nato_final_project Coverage Results" MODIFIED="1712818669977" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day 26" />
+    <SUITE FILE_PATH="coverage/100_Day$scoreboard.coverage" NAME="scoreboard Coverage Results" MODIFIED="1712203104408" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day20" />
+    <SUITE FILE_PATH="coverage/100_Day$user_class.coverage" NAME="user_class Coverage Results" MODIFIED="1710604321941" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day17" />
+    <SUITE FILE_PATH="coverage/100_Day$quiz_brain.coverage" NAME="quiz_brain Coverage Results" MODIFIED="1710772715640" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day17/Quiz_game" />
+    <SUITE FILE_PATH="coverage/100_Day$main__1_.coverage" NAME="main (1) Coverage Results" MODIFIED="1712206945331" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day 23" />
+    <SUITE FILE_PATH="coverage/100_Day$test.coverage" NAME="test Coverage Results" MODIFIED="1712818887558" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day 26" />
+    <SUITE FILE_PATH="coverage/100_Day$kargs.coverage" NAME="kargs Coverage Results" MODIFIED="1712906394767" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day 27" />
+    <SUITE FILE_PATH="coverage/100_Day$question_model.coverage" NAME="question_model Coverage Results" MODIFIED="1710605071605" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day17/Quiz_game" />
+    <SUITE FILE_PATH="coverage/100_Day$data_operlap.coverage" NAME="data_operlap Coverage Results" MODIFIED="1712718533342" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day 26" />
+    <SUITE FILE_PATH="coverage/100_Day$spirograph.coverage" NAME="spirograph Coverage Results" MODIFIED="1710783451192" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day18" />
+    <SUITE FILE_PATH="coverage/100_Day$pretty.coverage" NAME="pretty Coverage Results" MODIFIED="1710589885737" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day16" />
+    <SUITE FILE_PATH="coverage/100_Day$random.coverage" NAME="random Coverage Results" MODIFIED="1710779668438" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day18" />
+    <SUITE FILE_PATH="coverage/100_Day$dashed_line.coverage" NAME="dashed_line Coverage Results" MODIFIED="1710781365549" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day18" />
+    <SUITE FILE_PATH="coverage/100_Day$tkinter_01.coverage" NAME="tkinter_01 Coverage Results" MODIFIED="1712933040249" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day 27" />
+    <SUITE FILE_PATH="coverage/100_Day$coffee_machine.coverage" NAME="coffee_machine Coverage Results" MODIFIED="1710482296749" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day15" />
+    <SUITE FILE_PATH="coverage/100_Day$main.coverage" NAME="main Coverage Results" MODIFIED="1712289651315" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day_25" />
+    <SUITE FILE_PATH="coverage/100_Day$list_comprehension.coverage" NAME="list_comprehension Coverage Results" MODIFIED="1712717657663" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day 26" />
+    <SUITE FILE_PATH="coverage/100_Day$etch_a_sktech.coverage" NAME="etch_a_sktech Coverage Results" MODIFIED="1710830980629" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day19" />
+    <SUITE FILE_PATH="coverage/100_Day$turtle_race.coverage" NAME="turtle_race Coverage Results" MODIFIED="1710838618515" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day19" />
+    <SUITE FILE_PATH="coverage/100_Day$json_path.coverage" NAME="json_path Coverage Results" MODIFIED="1711690960455" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/API" />
+    <SUITE FILE_PATH="coverage/100_Day$project1.coverage" NAME="project1 Coverage Results" MODIFIED="1712547633304" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day_25" />
+    <SUITE FILE_PATH="coverage/100_Day$class.coverage" NAME="class Coverage Results" MODIFIED="1710588648925" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day16" />
+    <SUITE FILE_PATH="coverage/100_Day$dict_comp.coverage" NAME="dict_comp Coverage Results" MODIFIED="1712720656981" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day 26" />
+    <SUITE FILE_PATH="coverage/100_Day$square.coverage" NAME="square Coverage Results" MODIFIED="1712717874871" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day 26" />
+    <SUITE FILE_PATH="coverage/100_Day$main__2_.coverage" NAME="main (2) Coverage Results" MODIFIED="1712206949809" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day 24" />
+    <SUITE FILE_PATH="coverage/100_Day$function_key.coverage" NAME="function_key Coverage Results" MODIFIED="1710829863276" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day19" />
+    <SUITE FILE_PATH="coverage/100_Day$data.coverage" NAME="data Coverage Results" MODIFIED="1710605706662" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day17/Quiz_game" />
+    <SUITE FILE_PATH="coverage/100_Day$all_shape.coverage" NAME="all_shape Coverage Results" MODIFIED="1710778625777" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day18" />
+    <SUITE FILE_PATH="coverage/100_Day$ball.coverage" NAME="ball Coverage Results" MODIFIED="1711513591509" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day 22" />
+    <SUITE FILE_PATH="coverage/100_Day$ques2_dict_comp.coverage" NAME="ques2_dict_comp Coverage Results" MODIFIED="1712813736647" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day 26" />
+    <SUITE FILE_PATH="coverage/100_Day$args.coverage" NAME="args Coverage Results" MODIFIED="1712904517421" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day 27" />
+    <SUITE FILE_PATH="coverage/100_Day$car_manager.coverage" NAME="car_manager Coverage Results" MODIFIED="1711525337026" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day 23" />
+    <SUITE FILE_PATH="coverage/100_Day$inher.coverage" NAME="inher Coverage Results" MODIFIED="1711450432014" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day 21" />
+    <SUITE FILE_PATH="coverage/100_Day$ques1_dict_comp.coverage" NAME="ques1_dict_comp Coverage Results" MODIFIED="1712738464078" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day 26" />
+  </component>
+</project>
